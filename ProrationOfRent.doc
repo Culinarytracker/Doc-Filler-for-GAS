@@ -1,0 +1,21 @@
+Proration of Rent
+
+
+tenantNames
+unitAddress
+Mount Vernon, Ohio 43050
+
+Your rent for the above address is $rentAmt per month. The rent is due on the first of every month.
+
+You are getting the apartment on the moveInDate of moveInMonth, so your rent for nextMonth will be prorated. The amount of rent due on the first of nextMonth is $proratedRentAmt.
+
+Then on thirdMonth first you will owe $rentAmt and every month thereafter on the first.
+
+Thank you,
+John Smith
+
+
+123 Fake St.
+Anytown, ST 69696
+555-123-4567
+
